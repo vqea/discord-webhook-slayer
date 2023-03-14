@@ -102,3 +102,6 @@ def main():
     
     else:
       main()
+    
+if __name__ == '__main__': 
+   main()
